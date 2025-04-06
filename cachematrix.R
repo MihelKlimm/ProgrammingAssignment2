@@ -1,7 +1,7 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 ## These functions written in partial fulfillment of Coursera Data Science: R Programming 
-## Week 3 Assignment; week beginning January 18, 2016; GitHub user: PamlaM
+## Week 3 Assignment; week beginning April, 6th, 2025; GitHub user: MihelKlimm
 
 ## Write a short comment describing this function
 
